@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbngo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    &nbsp; &nbsp; &nbsp; &nbsp;     
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbngo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    &nbsp; &nbsp; &nbsp; &nbsp;    --> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbngo21&show_icons=true&theme=merko)
 
