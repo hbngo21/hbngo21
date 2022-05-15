@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanxuanvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    &nbsp; &nbsp; &nbsp; &nbsp;     
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbngo21&show_icons=true&theme=merko)
+
 <!--
 **hbngo21/hbngo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
