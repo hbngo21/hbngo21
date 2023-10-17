@@ -1,4 +1,4 @@
-### Hi there, I'm Ha Bac Ngo
+### Hi there, I'm Jacie
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ha-bac-ngo-84036a209)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_hbng21_/)
